@@ -2,6 +2,8 @@
 
 This repository is a place to share information on DevOps approaches.
 
+[Most of the documentation is in this repository's wiki](https://github.com/jfredrickson5/DevOps-Workshop/wiki).
+
 The Goal: Figure out a way to automate the entire DevOps process to get code from that repo into dev, test, prod, and go through all the automated testing in between.
 
 1. Have each collaborator stand up their own AWS environments allowing each person to learn by doing.
